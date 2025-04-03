@@ -1,3 +1,4 @@
-#import <React/RCTRootView.h>
-#import <React/RCTBridgeModule.h>
-#import <React/RCTViewManager.h>
+pod 'React-Core', :path => '../node_modules/react-native'
+pod 'React-RCTBridge', :path => '../node_modules/react-native'
+pod 'React-RCTView', :path => '../node_modules/react-native'
+pod 'React-CoreModules', :path => '../node_modules/react-native'
